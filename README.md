@@ -19,4 +19,11 @@ Com um suporte de 16% e uma confiança acima de 60%, temos 3 regras.
 Na primeira, os alunos com notas abaixo ou igual a 5.05 em Algoritimos e notas abaixo ou igual a 4.95 em Geometria Análitica irá obter uma nota igual ou inferior a 4.55 em Cálculo 1.
 Na segunda, os alunos com notas abaixo ou igual a 4.75 em Cálculo1 e notas abaixo ou igual 4.95 em Geometria Analítica irá obter uma bota igual ou inferior a 5.05 em Algoritimos.
 Na terceira, os alunos com notas abaixo ou igual a 5.05 em Algoritmos e notas abaixo ou igual a 4.75 em cálculo 1 irá obter uma bota igual ou inferior a 4.95 em geometria Analitica.
+
 ![image](https://github.com/user-attachments/assets/ff5ad36e-443b-4009-b3d2-60507daeab68)
+
+# Atividade de Agrupamento
+
+No agrupamento foi observado que quanto analisado com 10 clurster, se obtem um melhor indice de silhouete
+
+![image](https://github.com/user-attachments/assets/662d9bdf-5e71-4936-98c0-00f5cd9a3467)
