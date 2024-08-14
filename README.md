@@ -18,9 +18,11 @@ Com um suporte de 16% e uma confiança acima de 60%, temos 3 regras.
 
 ### Regras:
 
-Regra 1: Se "Algoritmos ≤ 5.05" e "Geometria Analítica ≤ 4.95", então "Cálculo ≤ 4.75".
-Regra 2: Se "Cálculo ≤ 4.75" e "Geometria Analítica ≤ 4.95", então "Algoritmos ≤ 5.05".
-Regra 3: Se "Algoritmos ≤ 5.05" e "Cálculo ≤ 4.75", então "Geometria Analítica ≤ 4.95".
+_Regra 1:_ Se "Algoritmos ≤ 5.05" e "Geometria Analítica ≤ 4.95", então "Cálculo ≤ 4.75".
+
+_Regra 2:_ Se "Cálculo ≤ 4.75" e "Geometria Analítica ≤ 4.95", então "Algoritmos ≤ 5.05".
+
+_Regra 3:_ Se "Algoritmos ≤ 5.05" e "Cálculo ≤ 4.75", então "Geometria Analítica ≤ 4.95".
 
 ![image](https://github.com/user-attachments/assets/ff5ad36e-443b-4009-b3d2-60507daeab68)
 
