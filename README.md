@@ -16,7 +16,7 @@ Situacao: Situação final do aluno, que pode ser "Evadido" ou "Formado".
 
 Com um suporte de 16% e uma confiança acima de 60%, temos 3 regras.
 
-# Regras:#
+### Regras:
 
 Regra 1: Se "Algoritmos ≤ 5.05" e "Geometria Analítica ≤ 4.95", então "Cálculo ≤ 4.75".
 Regra 2: Se "Cálculo ≤ 4.75" e "Geometria Analítica ≤ 4.95", então "Algoritmos ≤ 5.05".
