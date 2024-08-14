@@ -24,6 +24,7 @@ _Regra 2:_ Se "Cálculo ≤ 4.75" e "Geometria Analítica ≤ 4.95", então "Alg
 
 _Regra 3:_ Se "Algoritmos ≤ 5.05" e "Cálculo ≤ 4.75", então "Geometria Analítica ≤ 4.95".
 
+
 ![image](https://github.com/user-attachments/assets/ff5ad36e-443b-4009-b3d2-60507daeab68)
 
 Estas regras indicam que existe uma relação entre as classificações nas três disciplinas. Por exemplo, estudantes que apresentam resultados notas baixas em Algoritmos e Geometria Analítica costumam ter também notas baixas em Cálculo, e o contrário também acontece.
