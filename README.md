@@ -24,6 +24,6 @@ Na terceira, os alunos com notas abaixo ou igual a 5.05 em Algoritmos e notas ab
 
 # Atividade de Agrupamento
 
-No agrupamento foi observado que quanto analisado com 10 clurster, se obtem um melhor indice de silhouete
+Os resultados mostram que, com 13 clusters, o maior Silhouette Score é de 0.339. Esse valor indica a qualidade da separação entre os clusters, onde quanto mais próximo de 1, melhor a separação. Embora 13 clusters tenha o maior Silhouette Score, o valor não é tão alto, sugerindo que os clusters podem não estar bem separados.
 
 ![image](https://github.com/user-attachments/assets/662d9bdf-5e71-4936-98c0-00f5cd9a3467)
