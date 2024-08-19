@@ -33,20 +33,40 @@ Estas regras indicam que existe uma relação entre as classificações nas trê
 
 Os resultados mostram que, com 10 clusters, o maior Silhouette Score é de 0.339. Esse valor indica a qualidade da separação entre os clusters, onde quanto mais próximo de 1, melhor a separação. Embora 13 clusters tenha o maior Silhouette Score, o valor não é tão alto, sugerindo que os clusters podem não estar bem separados.
 
+Segue em abaixo os clusters.
+
 ![image](https://github.com/user-attachments/assets/662d9bdf-5e71-4936-98c0-00f5cd9a3467)
+
+
+
+
+- Geometria x Algoritimos
 
 ![GeometriaXalgoritimos](https://github.com/user-attachments/assets/e814ef18-a96f-4fb5-b45a-6577139b20d0)
 
+
+- Geometria x Calculo
+
 ![GeometriaxCalculo](https://github.com/user-attachments/assets/8c968972-03c6-422b-af88-0c324494b574)
+
+
+- Cálculo x Geometria
 
 ![calculoXGeometria](https://github.com/user-attachments/assets/e8c5ba1e-808f-483a-a580-f9ab043a6d32)
 
-![calculoXAlgoritmos](https://github.com/user-attachments/assets/e5a1de14-a5d5-4c1b-812a-d3468b05948d)
+
+- Calculo x Algoritmos
 
 ![algoritmosXCalculo](https://github.com/user-attachments/assets/4b1fa1e3-1eda-4fd2-897a-8c0aece4bc10)
+
+
+- Algoritmos x Geometria
 
 ![algoritmosXgeometria_analitica](https://github.com/user-attachments/assets/3c98ecd2-2707-49f5-adf0-ff0f09e1d84c)
 
 
+- Algoritimos x Cálculo
+
+![algoritmosXCalculo](https://github.com/user-attachments/assets/38d46060-b1f4-4c54-a2e5-4dc03f3b3570)
 
 
